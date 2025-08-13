@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+#env
+#venv/
+.alembic/
+.mypy_cache/
+.pytest_cache/
+.idea/
+.vscode/
+postgres_data/
